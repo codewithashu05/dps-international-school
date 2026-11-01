@@ -265,7 +265,7 @@ function App() {
             <span>📍</span>
             <div>
               <h4>Visit Our School</h4>
-              <p>Your School Address, City, India</p>
+              <p>Bhingari Bazar Deoria (Uttar Pradesh) </p>
             </div>
           </div>
 
